@@ -1,4 +1,4 @@
-![Banner Image](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img src='https://github.com/milad2281/milad2281/blob/main/me.jpg' alt='Banner' height='400'>
 
 ### In the beginning, there was all 1s and 0s. But through evolution, developers cames to existence.
 ## Welcome to my page
