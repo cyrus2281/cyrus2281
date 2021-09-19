@@ -1,6 +1,6 @@
 <img src='https://github.com/milad2281/milad2281/blob/main/me.jpg' alt='Banner' height='400'>
 
-### In the beginning, there was all 1s and 0s. But through evolution, developers cames to existence.
+### In the beginning, there was all 1s and 0s. But through evolution, developers came to existence.
 ## Welcome to my page
 #### Hi, My name is Cyrus (Milad), and I am a Full Stack Developer.
 
