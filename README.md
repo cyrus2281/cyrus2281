@@ -4,9 +4,9 @@
 ## Welcome to my page
 #### Hi, My name is Cyrus (Milad), and I am a Full Stack Developer.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=milad2281)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=milad2281&theme=radical)  
 
 I am a passionated programmer 👨‍💻 who spends most of his time behind a computer 💻. I work on personal projects, open source projects, and as a developer.
 
@@ -33,7 +33,7 @@ My Skills include:
 I like coding with all languages, but if I have to choose my favorites, I would choose TypeScript & Python
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💼 Currently I am employed at [Agility PR Solutions](https://www.agilitypr.com/)
 
