@@ -33,7 +33,7 @@ My Skills include:
 I like coding with all languages, but if I have to choose my favorites, I would choose TypeScript & Python
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💼 Currently I am employed at [Agility PR Solutions](https://www.agilitypr.com/)
 
