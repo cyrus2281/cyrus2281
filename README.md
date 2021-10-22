@@ -5,7 +5,7 @@
 ### **Hi,** My name is Cyrus (Milad), and I am a Full Stack Developer.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook)](https://github.com/milad2281?tab=repositories)
 
 <img align="right" src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 250px>
 
