@@ -35,7 +35,7 @@ I like coding with all languages, but if I have to choose my favorites, I would 
 
 - 💼 Currently I am employed at [Agility PR Solutions](https://www.agilitypr.com/)
 
-<h3 align="left">Connect Me <img align='center' src = "https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width = 42px></h3>
+<h3 align="left">Contact Me <img align='center' src = "https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width = 42px></h3>
 <p align="left">
  <a href="https://github.com/milad2281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="milad1mbn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/miladmobini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miladmobini" height="30" width="40" /></a>
