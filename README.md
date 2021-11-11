@@ -4,13 +4,16 @@
 ## Welcome to my page <img align='center' src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>
 ### **Hi,** My name is Cyrus (Milad), and I am a Full Stack Developer.
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook)](https://github.com/milad2281?tab=repositories)
-
-<img align="right" src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 250px>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=milad2281&theme=radical)  
-
+<div>
+ <divalign=left>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true&theme=radical" width = 47%>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 47%>
+ </div>
+ <div align=right> 
+   <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=milad2281&theme=radical" width = 65%>
+  <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 200px>
+ </div>
+</div>
 <br>
 
 I am a passionated programmer 👨‍💻 who spends most of his time behind a computer 💻. 
