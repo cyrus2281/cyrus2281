@@ -10,9 +10,9 @@
   <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=milad2281&theme=radical" width = 49%>
  </div>
  <div align=right> 
-   
+   <img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 23%>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 50%>
-  <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 25%>
+  <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 23%>
  </div>
 </div>
 <br>
@@ -31,10 +31,6 @@ I enjoy Machine Learning and AI, Software and Web development, and UI and UX Des
 <br>
 
 I like coding with all languages, but if I have to choose my favorites, I would choose TypeScript & Python
-
-
-<img align="right" src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 200px>
-
 
 
 - 💼 Currently I am employed at [Agility PR Solutions](https://www.agilitypr.com/)
