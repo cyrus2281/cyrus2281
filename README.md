@@ -6,12 +6,13 @@
 
 <div>
  <divalign=left>
-  <img  src = "https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true&theme=radical" width = 47%>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 47%>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true&theme=radical" width = 49%>
+  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=milad2281&theme=radical" width = 49%>
  </div>
  <div align=right> 
-   <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=milad2281&theme=radical" width = 65%>
-  <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 200px>
+   
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 50%>
+  <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 25%>
  </div>
 </div>
 <br>
@@ -48,4 +49,4 @@ I like coding with all languages, but if I have to choose my favorites, I would 
 <hr>
 <h3> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '42px'></h3>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<img src = "https://readme-jokes.vercel.app/api?theme=radical" width = 80%>
