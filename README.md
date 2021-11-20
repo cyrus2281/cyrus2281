@@ -11,7 +11,7 @@
  </div>
  <div align=right> 
    <img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 23%>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 50%>
+  <a href="https://github.com/milad2281?tab=repositories"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 50%></a>
   <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 23%>
  </div>
 </div>
@@ -34,6 +34,9 @@ I like coding with all languages, but if I have to choose my favorites, I would 
 
 
 - 💼 Currently I am employed at [Agility PR Solutions](https://www.agilitypr.com/)
+
+
+You can aslo downlaod [my resume](Milad%20Mobini%20-%20Resume.pdf) here.
 
 <h3 align="left">Contact Me <img align='center' src = "https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width = 42px></h3>
 <p align="left">
