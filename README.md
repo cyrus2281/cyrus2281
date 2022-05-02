@@ -1,4 +1,4 @@
-<img src='https://github.com/milad2281/milad2281/blob/main/me.jpg' alt='Banner' height='400'>
+<img src='https://github.com/cyrus2281/cyrus2281/blob/main/me.jpg' alt='Banner' height='400'>
 
 ### In the beginning, there was all 1s and 0s. But through evolution, developers came to existence.
 ## Welcome to my page <img align='center' src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>
@@ -6,12 +6,12 @@
 
 <div>
  <divalign=left>
-  <img  src = "https://github-readme-stats.vercel.app/api?username=milad2281&show_icons=true&count_private=true&theme=radical" width = 49%>
-  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=milad2281&theme=radical" width = 49%>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=cyrus2281&show_icons=true&count_private=true&theme=radical" width = 49%>
+  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=cyrus2281&theme=radical" width = 49%>
  </div>
  <div align=right> 
    <img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 23%>
-  <a href="https://github.com/milad2281?tab=repositories"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=milad2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 50%></a>
+  <a href="https://github.com/cyrus2281?tab=repositories"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyrus2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 50%></a>
   <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 23%>
  </div>
 </div>
@@ -40,7 +40,7 @@ You can aslo downlaod [my resume](Milad%20Mobini%20-%20Resume.pdf) here.
 
 <h3 align="left">Contact Me <img align='center' src = "https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width = 42px></h3>
 <p align="left">
- <a href="https://github.com/milad2281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="milad1mbn" height="30" width="40" /></a>
+ <a href="https://github.com/cyrus2281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="milad1mbn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/miladmobini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miladmobini" height="30" width="40" /></a>
 <a href="https://instagram.com/cyrus.2281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrus.2281" height="30" width="40" /></a>
 <a href="https://www.ecocyrus.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://www.ecocyrus.com/" height="30" width="40" /></a>
