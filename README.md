@@ -35,9 +35,6 @@ I like coding with all languages, but if I have to choose my favorites, I would 
 
 - 💼 SWE at [Nokia](https://www.nokia.com/)
 
-
-You can aslo downlaod [my resume](Milad%20Mobini%20-%20Resume.pdf) here.
-
 <h3 align="left">Contact Me <img align='center' src = "https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width = 50></h3>
 <p align="left">
  <a href="https://github.com/cyrus2281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="milad1mbn" height="30" width="40" /></a>
