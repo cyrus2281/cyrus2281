@@ -35,13 +35,6 @@ I like coding with all languages, but if I have to choose my favorites, I would 
 
 - 💼 SWE at [Nokia](https://www.nokia.com/)
 
-<h3 align="left">Contact Me <img align='center' src = "https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width = 50></h3>
-<p align="left">
- <a href="https://github.com/cyrus2281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="milad1mbn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miladmobini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miladmobini" height="30" width="40" /></a>
-<a href="https://instagram.com/cyrus.2281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrus.2281" height="30" width="40" /></a>
-<a href="https://www.ecocyrus.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://www.ecocyrus.com/" height="30" width="50" /></a>
-</p><br>
 <hr>
 <h3> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '50'></h3>
 
