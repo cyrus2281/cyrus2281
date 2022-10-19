@@ -2,7 +2,7 @@
 
 ### In the beginning, there was all 1s and 0s. But through evolution, developers came to existence.
 ## Welcome to my page <img align='center' src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40>
-### **Hi,** My name is Cyrus (Milad), and I am a Full Stack Developer.
+### **Hi,** My name is Cyrus, and I am a Full Stack Developer.
 
 <div>
  <divalign=left>
@@ -31,9 +31,6 @@ I enjoy Machine Learning and AI, Software and Web development, and UI and UX Des
 <br>
 
 I like coding with all languages, but if I have to choose my favorites, I would choose TypeScript & Python
-
-
-- 💼 SWE at [Nokia](https://www.nokia.com/)
 
 <hr>
 <h3> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '50'></h3>
