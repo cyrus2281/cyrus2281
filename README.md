@@ -27,7 +27,7 @@ I work on personal projects, open source projects, and as a developer.
 
 I enjoy Machine Learning and AI, Software and Web development, and UI and UX Design, and work with a wide range of programming languages. I love learning, and I try to learn something new everyday.
 
-🎓 I’m currently learning **Three.js, Next.js, and GoLang**
+🎓 I’m currently learning **Solidity, Next.js, and GoLang**
 
 <h2 align="left">My Skills  <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50></h2>
 <table align="center">
