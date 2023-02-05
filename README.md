@@ -1,6 +1,7 @@
 <img src='https://github.com/cyrus2281/cyrus2281/blob/main/me.jpg' alt='Banner' height='400'>
 
 [![](https://img.shields.io/badge/NPM-cyrus2281-success?logo=npm)](https://www.npmjs.com/~cyrus2281)
+[![](https://img.shields.io/badge/BuyMeACoffee-cyrus2281-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/cyrus2281)
 
 ### In the beginning, there was all 1s and 0s. But through evolution, developers came to existence.
 
