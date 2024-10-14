@@ -1,12 +1,11 @@
-
 [![](https://img.shields.io/badge/NPM-cyrus2281-success?logo=npm)](https://www.npmjs.com/~cyrus2281)
 [![](https://img.shields.io/badge/BuyMeACoffee-cyrus2281-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/cyrus2281)
 
-**In the beginning, there was all 1s and 0s. But through evolution, developers came to existence</b>**
+**In the beginning, there was all 1s and 0s. But then through evolution, developers came to existence</b>**
 
 ## Welcome to my page <img align='center' src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40>
 
-**Hi, My name is Cyrus, and I am a Full Stack Developer with experties in machine learning.**
+**Hi, My name is Cyrus, and I am an AI Engineer with expertise in generative AI, machine learning, and Full Stack Development.**
 
 <div>
  <divalign=left>
@@ -21,15 +20,16 @@
 </div>
 <br>
 
-I am a passionate programmer 👨‍💻 who spends most of his time behind a computer 💻.
+I am a passionate programmer 👨‍💻 who spends a lot of his time in front of a computer 💻.
 
 I work on personal projects, open source projects, and as a developer.
 
-I enjoy Machine Learning and AI, Software and Web development, and UI and UX Design, and work with a wide range of programming languages. I love learning, and I try to learn something new everyday.
+I enjoy generative AI, machine and deep learning, software and web development, and UI design, and work with a wide range of programming languages. I love learning, and I try to learn something new everyday.
 
-🎓 I’m currently focuesd on **machine learning and deep learning** with the math behind it, and I'm learning Next.js and GoLang on the side.
+🎓 I’m currently focused on **AI** with the math behind it, and I'm learning Next.js on the side.
 
 <h2 align="left">My Skills  <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50></h2>
+
 <table align="center">
   <tr>
     <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a></td>
@@ -41,7 +41,6 @@ I enjoy Machine Learning and AI, Software and Web development, and UI and UX Des
     <td><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a></td>
     <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a> </td>
   </tr>
-
   <tr>
     <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a></td>
     <td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a></td>
@@ -52,7 +51,6 @@ I enjoy Machine Learning and AI, Software and Web development, and UI and UX Des
     <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a></td>
     <td><a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="threejs" width="60" height="60"/> </a></td>
   </tr>
-
   <tr>
     <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/></a></td>
     <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a></td>
@@ -63,7 +61,6 @@ I enjoy Machine Learning and AI, Software and Web development, and UI and UX Des
     <td><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" /> </a></td>
     <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a></td>
   </tr>
-
   <tr>
     <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a></td>
     <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/> </a></td>
@@ -74,7 +71,6 @@ I enjoy Machine Learning and AI, Software and Web development, and UI and UX Des
     <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a></td>
     <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a></td>
   </tr>
-
   <tr>
     <td><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a></td>
     <td><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/> </a></td>
@@ -83,21 +79,20 @@ I enjoy Machine Learning and AI, Software and Web development, and UI and UX Des
     <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a></td>
     <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a></td>
     <td><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a></td>
-    <td><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a> 
+    <td><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a> </td>
   </tr>
-
   <tr>
-    <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" /> </a> 
-    <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" /> </a> 
-    <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> 
-    <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> 
+    <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" /> </a> </td>
+    <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" /> </a> </td>
+    <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> </td>
+    <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> </td>
+    <td><a href="https://langchain.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" alt="langchain" width="60" height="60"/> </a> </td>
   </tr>
-
- </table>
+</table>
 
 <br>
 
-I like coding with all languages, but if I have to choose my favorites, I would choose TypeScript & Python
+I like coding with all languages, but if I have to choose my top favorites, I would choose TypeScript, Python, & Go.
 
 <hr>
 <h3> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '50'></h3>
