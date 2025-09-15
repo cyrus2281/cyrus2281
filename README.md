@@ -9,8 +9,8 @@
 
 <div>
  <divalign=left>
-  <img  src = "https://github-readme-stats.vercel.app/api?username=cyrus2281&show_icons=true&count_private=true&theme=radical" width = 49%>
-  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=cyrus2281&theme=radical" width = 49%>
+  <img  src = "https://awesome-github-stats.azurewebsites.net/user-stats/cyrus2281?cardType=github&theme=radical&preferLogin=false" width = 49%>
+  <img  src = "https://github-readme-streak-stats.herokuapp.com?user=cyrus2281&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_height=215" width = 49%>
  </div>
  <div align=right> 
    <img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 23%>
