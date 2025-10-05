@@ -13,20 +13,22 @@
   <img  src = "https://github-readme-streak-stats.herokuapp.com?user=cyrus2281&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_height=215" width = 49%>
  </div>
  <div align=right> 
-   <img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 23%>
-  <a href="https://github.com/cyrus2281?tab=repositories"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyrus2281&theme=radical&layout=compact&langs_count=10&hide=html,hack,jupyter%20notebook" width = 50%></a>
-  <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 23%>
+   <img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 18%>
+  <a href="https://github.com/cyrus2281?tab=repositories"><img src = "https://github-widgets.netlify.app/api/v1/timeseries-history.svg" width = 60%></a>
+  <img  src = "https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = 18%>
  </div>
 </div>
 <br>
 
-I am a passionate programmer 👨‍💻 who spends a lot of his time in front of a computer 💻.
+🙋‍♂️ I am a passionate programmer 👨‍💻 who spends a lot of his time in front of a computer 💻.
 
-I work on personal projects, open source projects, and as a developer.
+💼 I work on personal projects, open source projects, and as a software engineer.
 
-I enjoy generative AI, machine and deep learning, software and web development, and UI design, and work with a wide range of programming languages. I love learning, and I try to learn something new everyday.
+🤖 I enjoy generative AI, machine and deep learning, software and web development, and UI design, and work with a wide range of programming languages. I love learning, and I try to learn something new everyday.
 
-🎓 I’m currently focused on **AI** with the math behind it, and I'm learning Next.js on the side.
+🎓 I like giving talks, presentation, and demos about AI and the projects I have worked on.
+
+ 🛠️ I’m currently building [Solace-Agent-Mesh](https://github.com/SolaceLabs/solace-agent-mesh), an event-driven distributed AI agentic framework.
 
 <h2 align="left">My Skills  <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50></h2>
 
