@@ -99,6 +99,11 @@
 
 I like coding with all languages, but if I have to choose my top favorites, I would choose TypeScript, Python, & Go.
 
+<div align="center">
+ 
+![Most starred repository](https://github-widgets.netlify.app/api/v1/most-starred.svg?top=1&title=Most%20Starred%20Repository)
+</div>
+
 <hr>
 <h3> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '50'></h3>
 
