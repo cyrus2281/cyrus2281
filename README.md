@@ -9,7 +9,7 @@
 
 <div>
  <divalign=left>
-  <img  src = "https://awesome-github-stats.azurewebsites.net/user-stats/cyrus2281?cardType=github&theme=radical&preferLogin=false" width = 49%>
+  <img  src = "https://github-widgets.netlify.app/api/v1/user-stats.svg?showRepos=false&showCommitsThisYear=false" width = 49%>
   <img  src = "https://github-readme-streak-stats.herokuapp.com?user=cyrus2281&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_height=215" width = 49%>
  </div>
  <div align=right> 
@@ -101,7 +101,7 @@ I like coding with all languages, but if I have to choose my top favorites, I wo
 
 <div align="center">
  
-![Most starred repository](https://github-widgets.netlify.app/api/v1/most-starred.svg?top=1&title=Most%20Starred%20Repository)
+[![Most starred repository](https://github-widgets.netlify.app/api/v1/most-starred.svg?top=1&title=Most%20Starred%20Repository)](https://github.com/cyrus2281/joystick-controller)
 </div>
 
 <hr>
