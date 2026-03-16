@@ -10,7 +10,7 @@
 <div>
  <divalign=left>
   <img  src = "https://widget.cyrusmobini.com/api/v1/user-stats.svg?showRepos=false&showCommitsThisYear=false&theme=transparent-radical" width = 49%>
-  <img  src = "https://github-readme-streak-stats.herokuapp.com?user=cyrus2281&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_height=215" width = 49%>
+  <img  src = "https://widget.cyrusmobini.com/api/v1/contribution-streak.svg?theme=transparent-radical" width = 49%>
  </div>
  <div align=right> 
    <img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 18%>
