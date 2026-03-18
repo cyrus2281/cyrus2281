@@ -35,10 +35,10 @@
 
 <h2 align="left">My Skills  <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50></h2>
 
- <div align=center>
-  
+<div align=center>
+<a href="https://www.linkedin.com/in/cyrusmobini/" >
 <img alt="Skills Table" src="https://widget.cyrusmobini.com/api/v1/skill-table.svg?skills=--Programming+Languages--%7Ctypescript%7Cpython%7Cjavascript%7Cgo%7CJava%3Ahttps%3A%2F%2Fwww.svgrepo.com%2Fshow%2F452234%2Fjava.svg%7CBash%3Agnubash%7Cphp%7Csolidity%7C--Frontend+%26+UI--%7Creact%7CReact+Native%3Areact%7Cangular%7Cionic%7CNext.js%3Anextdotjs%7CThree.js%3Athreedotjs%7Csass%7Ccss%7CHTML%3Ahtml5%7C--Backend+%26+Runtime--%7Cfastapi%7CNode.js%3Anodedotjs%7Cexpress%7Celectron%7Carduino%7C--Cloud%2C+DevOps+%26+Tools--%7Cdocker%7Ckubernetes%7CAWS%3Ahttps%3A%2F%2Fwww.svgrepo.com%2Fshow%2F448266%2Faws.svg%7CGCP%3Agooglecloud%7Chelm%7Cprometheus%7Cgrafana%7Cgit%7Clinux%7C--Databases+%26+Data--%7Cmongodb%7Cmysql%7Cpostgresql%7Credis%7Cneo4j%7C--Data%2C+AI+%26+ML--%7Ctensorflow%7Cpytorch%7CScikit%3Ascikitlearn%7Cpandas%7Clangchain%7C--Other+Tools--%7Cgraphql%7CKafka%3Aapachekafka%7Cauth0%7Cfigma%7Cblender&columns=9&iconSize=46&useOriginalColors=false&gap=6&theme=transparent-radical" >
-
+ </a>
 </div>
 
 <br>
