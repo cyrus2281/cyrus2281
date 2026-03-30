@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/Dockerhub-cyrus2281-blue?logo=docker)](https://hub.docker.com/u/cyrus2281)
 [![](https://img.shields.io/badge/NPM-cyrus2281-success?logo=npm)](https://www.npmjs.com/~cyrus2281)
 [![](https://img.shields.io/badge/BuyMeACoffee-cyrus2281-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/cyrus2281)
 
@@ -55,3 +56,12 @@ I like coding with all languages, but if I have to choose my top favorites, I wo
 <h3> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '50'></h3>
 
 <img src = "https://readme-jokes.vercel.app/api?theme=radical" width = 80%>
+
+---
+<div align=center>
+<a href="https://hub.docker.com/u/cyrus2281" ><img alt="Dockerhub" src="https://widget.cyrusmobini.com/api/v1/qr-code.svg?content=https%3A%2F%2Fhub.docker.com%2Fu%2Fcyrus2281&logo=docker&size=200&animate=true&theme=transparent-radical&title=Dockerhub" > </a>
+<a href="https://www.npmjs.com/~cyrus2281" ><img alt="npm" src="https://widget.cyrusmobini.com/api/v1/qr-code.svg?content=https%3A%2F%2Fwww.npmjs.com%2F%7Ecyrus2281&logo=npm&size=200&animate=true&theme=transparent-radical&title=NPM" > </a>
+<a href="https://buymeacoffee.com/cyrus2281" ><img alt="buymeacoffee" src="https://widget.cyrusmobini.com/api/v1/qr-code.svg?content=https%3A%2F%2Fbuymeacoffee.com%2Fcyrus2281&logo=buymeacoffee&size=200&animate=true&theme=transparent-radical&title=Buy+Me+a+Coffee" > </a>
+</div>
+
+
